@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "touchworld@gmail.com",
+      "password": "touchworldTech",
+      "username": "touchworld"
+    },
+    {
+      "empId": "emp001",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "contact": "11111111111",
+      "id": "h4WZg8l",
+      "address": "abc kochi"
+    },
+    {
+      "empId": "emp002",
+      "name": "Edwinkk",
+      "email": "edwin@gmail.com",
+      "contact": "222222222",
+      "id": "ZaHWD69",
+      "address": "ac kollam"
+    },
+    {
+      "empId": "emp003",
+      "name": "lucy",
+      "email": "lucy@gmail.com",
+      "contact": "3333333",
+      "id": "m6NxV8g",
+      "address": "ac kozhikode"
+    }
+    
+  ]
+}
